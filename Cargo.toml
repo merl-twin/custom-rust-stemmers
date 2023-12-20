@@ -1,0 +1,8 @@
+[package]
+name = "custom-rust-stemmers"
+version = "0.1.0"
+authors = ["merl <merl.001.mia@gmail.com>"]
+description = "Experimental fork of: A rust implementation of some popular snowball stemming algorithms"
+repository = "https://github.com/merl-twin/custom-rust-stemmers"
+readme = "README.md"
+license = "MIT"
